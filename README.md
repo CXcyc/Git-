@@ -1,12 +1,12 @@
 # Git 上传工程到 GitHub 常用命令
 
-```bash
+```
+# 进入本地项目目录
+进入CMD
+
 # 配置用户名和邮箱
 git config --global user.name "你的GitHub用户名"
 git config --global user.email "你的GitHub邮箱"
-
-# 进入本地项目目录
-cd /你的本地项目路径
 
 # 初始化 Git 仓库
 git init
